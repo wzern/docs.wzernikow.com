@@ -75,7 +75,7 @@ Log in to your Portainer web-interface and head to the settings. Find the menu s
 Paste the following URL into the URL field
 
 ```
-https://cdn.lansec.net/dist/portainer/templates.json
+https://raw.githubusercontent.com/wzern/portainer/master/Template/template.json
 ```
 
 Now if you go to the Templates menu found in the navigation bar, you will be able to install from over one-hundred app templates!
