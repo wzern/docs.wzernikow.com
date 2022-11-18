@@ -70,7 +70,7 @@ https://server-ip:9443
 If you would like access to a bunch of templates to install many of the most common apps, then follow the next few steps to import my list to your Portainer Instance.
 
 Log in to your Portainer web-interface and head to the settings. Find the menu shown in the image below...
-![App Templates URL](https://cdn.lansec.net/wzernikow/docs/portainer-installation/image1.png)
+![App Templates URL](https://cdn.webcode.co.nz/wzernikow/docs/portainer-installation/image1.png)
 
 Paste the following URL into the URL field
 

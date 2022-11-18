@@ -23,13 +23,13 @@ timezone: Pacific/Auckland
 
 title: William's Docs # the main title
 
-tagline: Documentation on everything that's helpful # it will display as the sub-title
+tagline: Documentation on things I need to remember # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Documentation on everything that's helpful
+  Documentation on things I need to remember
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://docs.wzernikow.com"
 
 github:
   username: wzern # change to your github username
@@ -83,7 +83,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.lansec.net/wzernikow/avatar.jpg
+avatar: https://cdn.webcode.co.nz/wzernikow/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

@@ -29,6 +29,6 @@ Then, browse to
 
 Once you have landed on the Uptime Kuma dashboard, you can start adding your monitors. Below is an example of a 'Ping' (ICMP)-based uptime monitor
 
-![App Templates URL](https://cdn.lansec.net/wzernikow/docs/uptime-kuma-installation/image1.png)
+![App Templates URL](https://cdn.webcode.co.nz/wzernikow/docs/uptime-kuma-installation/image1.png)
 
 There are many more options to pick from when it comes to choosing how you monitor your services and devices. Another monitor I suggest is the 'TCP Port' monitor. This is especially useful when hosting things such as a Minecraft Server. You can set the TCP Port Monitor to query the server port (25565 by default for Minecraft) and thus monitor the uptime of your Minecraft Server instance.
